@@ -92,3 +92,6 @@ The output is a bivariate choropleth map where:
 - **Y-Axis (Vertical)**: Represents the percentage of the population with a high school diploma or less.
 
 Each county is colored according to the relationship between these two variables using a bivariate color scheme.
+
+## Map Looks Like:
+<img width="931" alt="Screenshot 2024-09-16 at 10 24 08 PM" src="https://github.com/user-attachments/assets/38257e02-dfc9-49f1-8de2-50b17f6d926b">
